@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Jian Zhang!
+          Hello Jian Zhang and more!
         </a>
       </header>
     </div>
