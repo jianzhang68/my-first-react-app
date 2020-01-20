@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <main>
-        <Title />
+        <Title content="My first React Course Day"/>
       </main>
 
       <header className="App-header">
