@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Jian Zhang and more!
+          Welcomde React course!
         </a>
       </header>
     </div>
